@@ -1,0 +1,15 @@
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\RoundingIssue.exe
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\RoundingIssue.deps.json
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\RoundingIssue.runtimeconfig.json
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\RoundingIssue.dll
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\ref\RoundingIssue.dll
+E:\Development\RoundingIssue\RoundingIssue\bin\Debug\net6.0\RoundingIssue.pdb
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.csproj.AssemblyReference.cache
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.AssemblyInfoInputs.cache
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.AssemblyInfo.cs
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.csproj.CoreCompileInputs.cache
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.dll
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\ref\RoundingIssue.dll
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.pdb
+E:\Development\RoundingIssue\RoundingIssue\obj\Debug\net6.0\RoundingIssue.genruntimeconfig.cache
